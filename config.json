@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN",
+    "prefix": "*",
+
+    "msg": {
+        "nsfwWarn": "Cette commandes s'utilise seulement sur un channel nsfw !",
+        "loading": "Attendez...",
+        "imageNotLoading": "Image non charger ? Cliquer ici"
+    }
+    
+  }
