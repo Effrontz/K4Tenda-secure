@@ -1,0 +1,13 @@
+  
+{
+    "prefix": "*",
+    "token": "TOKEN",
+    "owners": ["742775039866437714", "434626414235353088"],
+    "footer": "",
+  
+    "msg": {
+        "nsfwWarn": "Cette commandes s'utilise seulement sur un channel nsfw !",
+        "loading": "Attendez...",
+        "imageNotLoading": ""
+    }
+  }
